@@ -1,2 +1,2 @@
 # Login-Register-Page
-It is a Login & Register webpage
+It is just a Login & Register webpage
